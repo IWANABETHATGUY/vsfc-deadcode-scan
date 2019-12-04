@@ -1,0 +1,24 @@
+{
+  "name": "vsfc-deadcode-scan",
+  "version": "0.1.0",
+  "description": "a commandline tool for scanning all the deadcode from .vue file under specific directory",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IWANABETHATGUY/vsfc-deadcode-scan.git"
+  },
+  "author": "hxj <974153916@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IWANABETHATGUY/vsfc-deadcode-scan/issues"
+  },
+  "homepage": "https://github.com/IWANABETHATGUY/vsfc-deadcode-scan#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "vscf-deadcode-detect": "^0.1.0"
+  }
+}
