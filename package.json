@@ -19,6 +19,6 @@
   "homepage": "https://github.com/IWANABETHATGUY/vsfc-deadcode-scan#readme",
   "dependencies": {
     "commander": "^4.0.1",
-    "vscf-deadcode-detect": "^3.0.0"
+    "vscf-deadcode-detect": "^0.4.1"
   }
 }
